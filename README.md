@@ -15,17 +15,9 @@ With the number of bush fires in the year 2019 and it's devostating after effect
 - **Data:** Page includes links to data sources as well as restful APIs created for this project. 
 - **Developers:** Pageage introduces you to the team that created this resource.
 
-## Architecture
-
-![](/Architecture.png?raw=true "Optional Title")
-
-
 ## Contributers
 
 * [Fran](https://github.com/Franktang2)
 * [Irene](https://github.com/ireneshtepa)
-* [Yash](https://github.com/Yashwinie)
 * [Yatish](https://github.com/Yatish-Mullaji)
-* [Yinka](https://github.com/Deyinka)
-
 
