@@ -5,7 +5,7 @@ A database was created about the movies which won an Oscar since the year 1960. 
 An ETL pipeline was created to create the database. 
 
 **Extraction**: Data sources are [filmsite](https://www.filmsite.org/bestpics4.html) and [omdbapi](http://www.omdbapi.com/). 
-![](/relative/path/to/img.jpg?raw=true "Optional Title")
+![](/Images/Scrapping from HTML.PNG?raw=true "Optional Title")
 
 **Transform** Data was cleaned and tabulated using Jupyter Notebook
 
